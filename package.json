@@ -1,0 +1,19 @@
+{
+  "name": "rolex-clone",
+  "version": "1.0.0",
+  "description": "Rolex Clone in React,PHP, MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiloyanSellathurai02/RolexClone.git"
+  },
+  "author": "Niloyan Sellathurai , Pranash Sri Pathmarajah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiloyanSellathurai02/RolexClone/issues"
+  },
+  "homepage": "https://github.com/NiloyanSellathurai02/RolexClone#readme"
+}
